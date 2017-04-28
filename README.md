@@ -1,6 +1,6 @@
-=========================
+
 Previous steps
-=========================
+
 
 The data for the project must be downloaded and unzipped in the working directory of R.
 The files needed are:
@@ -15,9 +15,9 @@ the subject who performed the activity for each window sample
 "X_text" - contains the results of each experiment for each subject and for each window sample (train data)
 
 
-=========================
+
 Description of the script
-=========================
+
 
 1.- The script begins loading the libraries "data.table", "dplyr" and "plyr"
 2.- Then, the file "features.txt" is read to obtain the names of the variables (data frame "variables"). 
