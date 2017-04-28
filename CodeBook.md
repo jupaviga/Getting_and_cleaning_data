@@ -1,7 +1,6 @@
-==================================================
+
 Code book describing the new data set created from 
 Human Activity Recognition Using Smartphones Dataset 
-==================================================
 
 The file "final_data.txt" contains the average values for each subject (30) and each activity (6) of the measurements 
 on the mean and standard deviation for each measurement 
